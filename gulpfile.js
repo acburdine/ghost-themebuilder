@@ -8,3 +8,11 @@ var gulp    = require('gulp'),
 gulp.task('less', function (cb) {
     
 });
+
+gulp.task('sass', function (cb) {
+
+});
+
+gulp.task('js', function (cb) {
+    
+});
