@@ -1,0 +1,7 @@
+{
+    "name": "my-test-theme",
+    "version": "1.0.0",
+    "author": "Austin Burdine <acburdine@gmail.com>",
+    "styles": "css",
+    "scripts": "js"
+}
